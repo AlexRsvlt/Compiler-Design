@@ -90,3 +90,9 @@ Write a code in yacc to check valid identifier or not.
 > Assignment 20
 
 Write a code in YACC to recognise string with grammar{a^nb^n|n>=0}
+
+> Assignment 21
+
+Write a program in Lex a word "A" in a file replace with "Best" and store another 'input2.txt'.
+**(Create input2.txt file and write desired text. 
+   Create output.txt file and leave it blank.)**
